@@ -6,7 +6,7 @@ Hello!
   • Software Engineering 💻  
   • Machine Learning 🤖  
 
-  Languages:
+  Languages:  
   • Java ☕️  
   • Python 🐍  
   • C++ 🔍🔧  
