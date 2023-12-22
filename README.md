@@ -1,4 +1,16 @@
 
+Hello!
+
+  Interests:
+  • Game Development 🎮
+  • Software Engineering 💻
+  • Machine Learning 🤖
+
+  Languages:
+  • Java ☕️
+  • Python 🐍
+  • C++ 🔍🔧
+
 <pre>
   <p align="center">
                                            /
