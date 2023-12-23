@@ -8,8 +8,9 @@ Hello!
 
   Languages:  
   • Java ☕️  
-  • Python 🐍  
   • C++ 🔍🔧  
+  • Python 🐍  
+  
 
 <pre>
   <p align="center">
