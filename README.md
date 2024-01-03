@@ -10,6 +10,12 @@ Hello!
   • Java ☕️  
   • C++ 🔍🔧  
   • Python 🐍  
+
+  Current Projects:  
+  • Chess Engine ♟️  
+  • Depth Perception Game 👁️🎲
+
+  
   
 
 <pre>
