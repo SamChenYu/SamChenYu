@@ -2,9 +2,9 @@
 Hello!
 
   Interests:  
-  • Game Development 🎮  
   • Software Engineering 💻  
   • Machine Learning 🤖  
+  • Game Development 🎮  
 
   Languages:  
   • Java ☕️  
