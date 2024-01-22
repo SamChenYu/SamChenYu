@@ -13,7 +13,6 @@ Hello!
 
   Current Projects:  
   • Chess Engine ♟️  
-  • Depth Perception Game 👁️🎲
 
   
   
