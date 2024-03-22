@@ -1,7 +1,7 @@
 
 # Hello!
 
-I'm Sam, an Undergraduate Year 1 Computer Science Student @ Queen Mary University of London
+I'm Sam, I'm a Y1 Computer Science Student @ QMUL and Aspiring Software Engineer!
 
   Interests:  
   • Software Engineering 💻  
