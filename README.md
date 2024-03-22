@@ -1,5 +1,7 @@
 
-Hello!
+# Hello!
+
+I'm Sam, an Undergraduate Year 1 Computer Science Student @ Queen Mary University of London
 
   Interests:  
   • Software Engineering 💻  
