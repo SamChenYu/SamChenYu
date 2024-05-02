@@ -2,7 +2,7 @@
 # Hello!
 
 I'm Sam, a Y1 Computer Science Student @ QMUL and Aspiring Software Engineer!  
-I mainly use Java & Python with Javax swing and Python Flask frameworks. I'm currently learning tensorflow!
+I use Java & Python with flask and swing frameworks.. I'm currently learning tensorflow!
     
   Interests:  
   • Software Engineering 💻   
