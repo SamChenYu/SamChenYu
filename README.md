@@ -4,7 +4,7 @@
 I'm Sam, a Y2 Computer Science Student @ QMUL and Aspiring Software Engineer!  
 
 ## Frameworks:
- •  ReactJS MySQL SpringBoot
+ •  ReactJS MySQL SpringBoot  
  •  Javax Swing  
  •  Pandas, Numpy, MatPlotLib, TensorFlow, SkLearn
 
