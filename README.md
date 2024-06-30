@@ -3,9 +3,9 @@
 
 I'm Sam, a Y2 Computer Science Student @ QMUL and Aspiring Software Engineer!  
 
-## Frameworks:
+## Languages & Frameworks:
+ •  Java Python HTML CSS Javascript PHP SQL  
  •  ReactJS MySQL SpringBoot  
- •  Javax Swing  
  •  Pandas, Numpy, MatPlotLib, TensorFlow, SkLearn
 
  ## Interests:  
