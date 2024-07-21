@@ -15,8 +15,7 @@ I'm Sam, a Y2 Computer Science Student @ QMUL and Aspiring Software Engineer!
 
 
 ##  Current Projects:  
-  • Chess Engine  
-  • 3D Engine
+  • Full Stack Chat Application
 
 
 ## Stats
