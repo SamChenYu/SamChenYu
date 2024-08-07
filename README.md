@@ -2,17 +2,24 @@
 
 I'm Sam, a Y2 Computer Science Student @ QMUL and Aspiring Software Engineer!
 
-## Languages & Frameworks:
-| **Languages**          | **Frameworks & Libraries**                          |
-|------------------------|-----------------------------------------------------|
-| Java, Python, HTML, CSS, JavaScript, PHP, SQL | Pandas, NumPy, Matplotlib, TensorFlow, Scikit-Learn |
-
 ## My Tech Stack:
 | **Category** | **Technologies** |
 |--------------|------------------|
 | **Frontend** | ReactJS ⚛️       |
 | **Backend**  | Spring Boot ☕    |
 | **Database** | MySQL 🐬         |
+
+## Languages & Frameworks
+
+| **Languages**                          | **Frameworks & Libraries**                           |
+|----------------------------------------|------------------------------------------------------|
+| Java                                   | Spring Boot                                          |
+| Python                                 | Pandas, NumPy, Matplotlib, TensorFlow, Scikit-Learn, Flask |
+| HTML                                   |                                                      |
+| CSS                                    |                                                      |
+| JavaScript                             | ReactJS, SockJS, STOMP                               |
+| PHP                                    |                                                      |
+| SQL                                    | MySQL                                                |
 
 ## Interests:
 - Software Engineering 💻
