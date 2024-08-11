@@ -13,7 +13,7 @@ I'm Sam, a Y2 Computer Science Student @ QMUL and Aspiring Software Engineer!
 
 | **Languages**                          | **Frameworks & Libraries**                           |
 |----------------------------------------|------------------------------------------------------|
-| Java                                   | Spring Boot, Spring Web, Spring WebSockets,  Spring Data JPA, MySQL Driver                                     |
+| Java                                   | Spring Boot, Spring MVC, Spring Web, Spring WebSockets, Spring Data JPA, Spring Security, MySQL Driver |
 | Python                                 | Pandas, NumPy, Matplotlib, TensorFlow, Scikit-Learn, Flask |
 | HTML                                   |                                                      |
 | CSS                                    |                                                      |
