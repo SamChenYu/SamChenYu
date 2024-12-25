@@ -3,6 +3,9 @@
 
 I'm Sam, a Y2 Computer Science Student @ QMUL and Aspiring Software Engineer!
 
+[Visit My GitHub Pages](https://samchenyu.github.io/)
+
+
 
 ## 💻 Tech Stack
 
