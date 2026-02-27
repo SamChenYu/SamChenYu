@@ -24,6 +24,4 @@ I'm Sam, a Y3 Computer Science Student @ QMUL and Software Engineer!
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamChenYu&theme=shades-of-purple&hide_border=false" width="46%"><br/>
 
-<img align="left" width=35% src="https://github-stats-extended.vercel.app/api/top-langs?username=SamChenYu&langs_count=6&theme=shades-of-purple" />
-
-  
+<img align="left" width=35% src="https://github-stats-extended.vercel.app/api/top-langs?username=SamChenYu&langs_count=5&theme=shades-of-purple" />
