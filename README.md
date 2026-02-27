@@ -20,8 +20,8 @@ I'm Sam, a Y3 Computer Science Student @ QMUL and Software Engineer!
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 ## Stats
-<img align="left" height=80% src="https://github-stats-extended.vercel.app/api?username=SamChenYu&show_icons=true&theme=shades-of-purple" />
+<img align="left" height="80%" width="46%" src="https://github-stats-extended.vercel.app/api?username=SamChenYu&show_icons=true&theme=shades-of-purple" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SamChenYu&theme=shades-of-purple&hide_border=false" height="80%"><br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SamChenYu&theme=shades-of-purple&hide_border=false" height="80%" width="46%"><br/>
 
 <img align="left" width=35% src="https://github-stats-extended.vercel.app/api/top-langs?username=SamChenYu&langs_count=5&theme=shades-of-purple" />
