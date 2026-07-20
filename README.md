@@ -1,7 +1,9 @@
 
 # Hello!
 ``` c++
-I'm Sam, a Year 3 Computer Science Student @ QMUL and Software Engineer!
+  I'm Sam, a Year 3 Computer Science Student @ QMUL and Software Engineer!
+  Currently a SDE Intern @ Amazon
+  Previously SWE Intern @ Unity Technologies
 ```
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
