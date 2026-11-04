@@ -2,4 +2,4 @@
 
 ## **hello there** 
 
-*I'm sam, interested in systems engineering, compilers, distributed systems, C++, music composition and pretty much anything on the cli*
+*I'm sam, a software engineer interested in systems engineering, compilers, distributed systems, C++, music composition and pretty much anything on the cli*
