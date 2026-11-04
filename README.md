@@ -1,33 +1,5 @@
+<img width="5120" height="1440" alt="Princess Mononoke - 010" src="https://github.com/user-attachments/assets/4b31c341-6424-4d05-9452-4ccf9aed48b0" />
 
-# Hello!
+## **hello there** 
 
-``` json
-{
-    "name": "Sam",
-    "education": {
-      "degree": "Computer Science",
-      "year": 3,
-      "institution": "QMUL"
-    },
-    "current": {
-      "title": "SDE Intern",
-      "company": "Amazon"
-    },
-  }
-```
-<table border="0" cellspacing="0">
-  <tr>
-    <td valign="top">
-      <img width="450" height="185" src="https://github-stats-extended.vercel.app/api?username=SamChenYu&show_icons=true&theme=shades-of-purple" />
-      <br />
-      <img width="450" height="185" src="https://github-readme-streak-stats.herokuapp.com/?user=SamChenYu&theme=shades-of-purple&hide_border=false" />
-    </td>
-    <td valign="top">
-      <img width="450" height="378" src="https://github-stats-extended.vercel.app/api/top-langs?username=SamChenYu&langs_count=5&theme=shades-of-purple" />
-    </td>
-  </tr>
-</table>
-
-
-
-
+*I'm sam, interested in systems engineering, compilers, distributed systems, C++, music composition and pretty much anything on the cli*
